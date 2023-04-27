@@ -12,3 +12,11 @@ Started by data scientist and YouTuber Kenneth Jee, the challenge is simple:
 <br>
 
 ---
+
+# Day 1
+
+- Learnt to interact between github and my local machine to create this repository.
+
+## Resources
+
+Git and GitHub for Beginners - Crash Course: https://youtu.be/RGOj5yH7evk
