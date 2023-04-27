@@ -9,6 +9,6 @@ Started by Kenneth Jee, the challenge is simple:
 - To create a daily learning habit by doing a little bit each day.
 - To get comfortable with sharing my progress (especially with prospective admissions officers and employers).
 - To build a community: find other aspiring bioinformaticians and gain feedback, build a community and make self-learning more enjoyable.
-
+<br>
 
 ---
