@@ -10,4 +10,5 @@ Started by Kenneth Jee, the challenge is simple:
 - To get comfortable with sharing my progress (especially with prospective admissions officers and employers).
 - To build a community: find other aspiring bioinformaticians and gain feedback, build a community and make self-learning more enjoyable.
 
+
 ---
