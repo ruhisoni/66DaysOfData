@@ -16,6 +16,7 @@ Started by data scientist and YouTuber Kenneth Jee, the challenge is simple:
 # Day 1
 
 - Learnt to interact between github and my local machine to create this repository.
+- Uploaded a simple Python code that takes a DNA sequence as input and calculates its GC content.
 
 ## Resources
 
