@@ -22,8 +22,8 @@ Other studies, however, claim that the link between genomic GC content and adapt
 One thing I know for sure now, though: one of my sub-goals in my bioinformatics learning journey is to replicate studies like these so I can better understand why certain analytical tools and statistical techniques were used and preferred over others.
 
 # References
-Galtier N, Lobry JR. Relationships between genomic G+C content, RNA secondary structures, and optimal growth temperature in prokaryotes. <i>J Mol Evol</i>. 1997 Jun;44(6):632-6. doi: 10.1007/pl00006186. PMID: 9169555.
-Hershberg R, Petrov DA (2010) Evidence That Mutation Is Universally Biased towards AT in Bacteria. <i>PLoS Genet</i> 6(9): e1001115. https://doi.org/10.1371/journal.pgen.1001115
-Hu, EZ., Lan, XR., Liu, ZL. <i>et al</i>. A positive correlation between GC content and growth temperature in prokaryotes. <i>BMC Genomics</i> 23, 110 (2022). https://doi.org/10.1186/s12864-022-08353-7
-Hurst LD, Merchant AR. High guanine-cytosine content is not an adaptation to high temperature: a comparative analysis amongst prokaryotes. <i>Proc Biol Sci</i>. 2001 Mar 7;268(1466):493-7. doi: 10.1098/rspb.2000.1397. PMID: 11296861; PMCID: PMC1088632.
-Meyer MM. Revisiting the Relationships Between Genomic G + C Content, RNA Secondary Structures, and Optimal Growth Temperature. <i>J Mol Evol</i>. 2021 Apr;89(3):165-171. doi: 10.1007/s00239-020-09974-w. Epub 2020 Nov 20. PMID: 33216148.
+* Galtier N, Lobry JR. Relationships between genomic G+C content, RNA secondary structures, and optimal growth temperature in prokaryotes. *J Mol Evol*. 1997 Jun;44(6):632-6. doi:10.1007/pl00006186. PMID: 9169555.
+* Hershberg R, Petrov DA (2010) Evidence That Mutation Is Universally Biased towards AT in Bacteria. *PLoS Genet* 6(9): e1001115. https://doi.org/10.1371/journal.pgen.1001115
+* Hu, EZ., Lan, XR., Liu, ZL. <i>et al</i>. A positive correlation between GC content and growth temperature in prokaryotes. *BMC Genomics* 23, 110 (2022). https://doi.org/10.1186/s12864-022-08353-7
+* Hurst LD, Merchant AR. High guanine-cytosine content is not an adaptation to high temperature: a comparative analysis amongst prokaryotes. *Proc Biol Sci*. 2001 Mar 7;268(1466):493-7. doi:10.1098/rspb.2000.1397. PMID: 11296861; PMCID: PMC1088632.
+* Meyer MM. Revisiting the Relationships Between Genomic G + C Content, RNA Secondary Structures, and Optimal Growth Temperature. *J Mol Evol*. 2021 Apr;89(3):165-171. doi:10.1007/s00239-020-09974-w. Epub 2020 Nov 20. PMID: 33216148.
