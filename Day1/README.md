@@ -1,7 +1,7 @@
 # Day 1
 Uploading GC-content.py was supposed to be a simple exercise of writing and uploading code. I have done this successfully.
 
-## However, I have also had another today-I-learned (TIL) moment along the way.
+### However, I have also had another today-I-learned (TIL) moment along the way.
 
 Why care about GC content?
 
@@ -11,7 +11,7 @@ One of the main reasons we look at GC percentages is that GC base pairs form tri
 
 Thus, organisms that live in high-temperature environments, like thermophilic bacteria, will have a higher genomic GC percentage than others.
 
-## Is this true? This is what I was taught in high school and university biology.
+### Is this true? This is what I was taught in high school and university biology.
 
 However, genomic analysis has since shown us that the relationship is not so straightforward or universal.
 
