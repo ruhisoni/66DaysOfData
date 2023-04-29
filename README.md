@@ -21,3 +21,7 @@ Started by data scientist and YouTuber Kenneth Jee, the challenge is simple:
 ## Resources
 
 Git and GitHub for Beginners - Crash Course: https://youtu.be/RGOj5yH7evk
+
+# Day 2
+
+- Completed Weeks 1-3 of the "Introduction to Probability and Data with R" course on Coursera. This included lectures and readings on experimental design, as well as basic birth rate statistics and data visualization using ggplot and other packages in RStudio.
