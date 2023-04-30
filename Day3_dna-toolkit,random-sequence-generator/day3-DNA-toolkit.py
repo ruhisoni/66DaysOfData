@@ -12,7 +12,7 @@ def ValidateSeq(dna):
             valid = False; break
     return valid
 
-print(ValidateSeq(dna))
+print("DNA sequence validity:",ValidateSeq(dna))
 
 #method 1 of counting nucleotides in the sequence
 def CountNuc1(dna):
@@ -21,19 +21,28 @@ def CountNuc1(dna):
         basecount[base] += 1
     return basecount
 
-print(CountNuc1(dna))
+print("Count of nucleotides in DNA sequence:",CountNuc1(dna))
 
 #method 2 of counting nucleotides in the sequence
 def CountNuc2(dna):
     return dict(collections.Counter(dna))
 
-print(CountNuc2(dna))
+print("Count of nucleotides in DNA sequence:",CountNuc2(dna))
 
-#def GC(smalldna):
-    #number_g=smalldna.count("c")
-    #number_c=smalldna.count("g")
-    #number_n=smalldna.count("n")
-    #gc=(number_g+number_c)*100/(len(dna)-number_n)
-    #return gc
+def GC(dna):
+    number_g=dna.count("G")
+    number_c=dna.count("C")
+    gc=(number_g+number_c)*100/(len(dna))
+    rounded_gc=round(gc,2)
+    return rounded_gc
 
-#print("The GC content is", GC(smalldna), "%")
+print("GC content in DNA sequence:", GC(dna),"%")
+
+def Transcription(dna):
+    comp_bases = {"A":"U", "T":"A", "G":"C", "C":"G"}
+    comp_list=[comp_bases[base] for base in dna]
+    comp_string=''.join(comp_list)
+    reverse_comp=comp_string[::-1]
+    return reverse_comp
+
+print("Transcribed RNA:",Transcription(dna))
