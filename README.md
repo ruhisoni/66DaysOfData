@@ -28,4 +28,4 @@ Git and GitHub for Beginners - Crash Course: https://youtu.be/RGOj5yH7evk
 
 | DAY | WHAT I LEARNT | RESOURCES |
 |-----|---------------|-----------|
-|1    |- Learnt to interact between github and my local machine to create this repository. | Git and GitHub for Beginners - Crash Course: https://youtu.be/RGOj5yH7evk |
+|:1:|- Learnt to interact between github and my local machine to create this repository./n - Uploaded a simple Python code that takes a DNA sequence as input and calculates its GC content. | Git and GitHub for Beginners - Crash Course: https://youtu.be/RGOj5yH7evk |
