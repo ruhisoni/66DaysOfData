@@ -1,11 +1,11 @@
 dna = input("Enter DNA sequence of interest: ")
-smalldna=dna.lower()
+dna=dna.lower()
 
-def GC(smalldna):
-    number_g=smalldna.count("c")
-    number_c=smalldna.count("g")
-    number_n=smalldna.count("n")
+def GC(dna):
+    number_g=dna.count("g")
+    number_c=dna.count("c")
+    number_n=dna.count("n")
     gc=(number_g+number_c)*100/(len(dna)-number_n)
     return gc
 
-print("The GC content is", GC(smalldna), "%")
+print("The GC content is", GC(dna), "%")
