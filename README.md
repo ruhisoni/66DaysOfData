@@ -13,22 +13,10 @@ Started by data scientist and YouTuber Kenneth Jee, the challenge is simple:
 
 ---
 
-# Day 1
-
-- Learnt to interact between github and my local machine to create this repository.
-- Uploaded a simple Python code that takes a DNA sequence as input and calculates its GC content.
-
-## Resources
-
-Git and GitHub for Beginners - Crash Course: https://youtu.be/RGOj5yH7evk
-
-# Day 2
-
-- Completed Weeks 1-3 of the "Introduction to Probability and Data with R" course on Coursera. This included lectures and readings on experimental design, as well as basic birth rate statistics and data visualization using ggplot and other packages in RStudio.
 
 | DAY | WHAT I LEARNT | RESOURCES |
 |:-----:|:---------------|:-----------|
 |1|- Learnt to interact between github and my local machine to create this repository.<br>- Uploaded a simple Python code that takes a DNA sequence as input and calculates its GC content. | Git and GitHub for Beginners - Crash Course: https://youtu.be/RGOj5yH7evk |
-|2|- Completed Weeks 1-3 of the "Introduction to Probability and Data with R" course on Coursera. This included lectures and readings on experimental design, as well as basic birth rate statistics and data visualization using ggplot and other packages in RStudio.| Introduction to Probability and Data with R - https://www.coursera.org/learn/probability-intro |
-|3|||
+|2|- Completed Weeks 1-3 of the "Introduction to Probability and Data with R" course on Coursera. This included lectures and readings on experimental design, as well as basic birth rate statistics and data visualization using ggplot and other packages in RStudio.| Introduction to Probability and Data with R - https://www.coursera.org/learn/probability-intro <br> Diez, D.M., Çetinkaya-Rundel Mine and Barr, C.D. (2019) *OpenIntro Statistics*. 4th edn. openintro.org. |
+|3|- Added more functions to the GC content program from Day 1 and turned it into a "DNA toolkit"<br>- Gained an introduction to Jupyter notebooks, its functions and shortcuts, and importing and exporting data.|Data Analysis with Python: https://www.freecodecamp.org/learn/data-analysis-with-python/ |
 |4|||
