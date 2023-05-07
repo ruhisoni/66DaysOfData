@@ -23,4 +23,4 @@ Started by data scientist and YouTuber Kenneth Jee, the challenge is simple:
 |5| Slow day. :persevere: Only watched the introductory NumPy videos in the Data Analysis course.<br> (- Also learnt how to add emojis to markdown.) | Data Analysis with Python: https://www.freecodecamp.org/learn/data-analysis-with-python/ |
 |6| Completed Week 4 of the "Introduction to Probability and Data with R" course on Coursera. | Introduction to Probability and Data with R - https://www.coursera.org/learn/probability-intro |
 |7| Continued learning about NumPy through the Data Analysis with Python course: arrays, operations, boolean arrays, algebra and size. | Data Analysis with Python: https://www.freecodecamp.org/learn/data-analysis-with-python/ |
-|8|||
+|8| Followed along Khushbu Patel's videos on analysing single-cell RNA-seq data in R. ||
