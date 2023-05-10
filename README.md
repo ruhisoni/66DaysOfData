@@ -25,4 +25,6 @@ Started by data scientist and YouTuber Kenneth Jee, the challenge is simple:
 |7| Continued learning about NumPy through the Data Analysis with Python course: arrays, operations, boolean arrays, algebra and size. | Data Analysis with Python: https://www.freecodecamp.org/learn/data-analysis-with-python/ |
 |8| Followed along Khushbu Patel's videos on analysing single-cell RNA-seq data in R. ||
 |9| Completed Week 5 of the "Introduction to Probability and Data with R" course on Coursera. | - Introduction to Probability and Data with R - https://www.coursera.org/learn/probability-intro <br> - Diez, D.M., Çetinkaya-Rundel Mine and Barr, C.D. (2019) *OpenIntro Statistics*. 4th edn. openintro.org. |
-|10|||
+|10| Gained an introduction to Principle Component Analysis. | StatQuest: Principal Component Analysis (PCA), Step-by-Step
+ - https://www.youtube.com/watch?v=FgakZw6K1QQ&ab_channel=StatQuestwithJoshStarmer |
+|11|||
